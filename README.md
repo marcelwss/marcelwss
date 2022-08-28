@@ -1,5 +1,5 @@
-## Salve! Me chamo Marcel Santos, técnico em TI há 10 anos e atualmente migrando para programação.
-<div align="center">
+##### Salve!✌️ Sou Marcel Santos, técnico em TI há 10 anos e atualmente migrando para programação.
+<div align="left">
   <a href="https://github.com/marcelwss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelwss&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelwss&layout=compact&langs_count=7&theme=nord"/>
