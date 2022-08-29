@@ -5,8 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelwss&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="MxW-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg">
-  <img align="center" alt="MxW-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="    " height="30" width="30" src="   ">
+  <img align="center" alt="    " height="30" width="30" src="   ">
+  <img align="center" alt="    " height="30" width="30" src="   ">
 </div>
   
   ##
