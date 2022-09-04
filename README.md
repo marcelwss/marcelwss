@@ -1,7 +1,6 @@
 #### 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=950&lines=Olá,+Meu+nome+é+Marcel+Santos;Sou+de+São+Paulo,+Brazil;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/marcelwss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelwss&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
