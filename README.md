@@ -1,4 +1,4 @@
- 
+ #
  <div align="center">
   <a href="https://twitter.com/_marcelws" target="_blank"><img src="https://i.imgur.com/xgjzM0m.png" target="_blank"></a>
   &nbsp;&nbsp;
@@ -10,9 +10,7 @@
  &nbsp;&nbsp;
   <a href = "mailto:hello@marcelws.com"><img src="https://i.imgur.com/KXktthy.png" target="_blank"></a>
 </div>
-
-  #
-  
+  &nbsp;
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center">
