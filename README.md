@@ -1,7 +1,7 @@
      ##                                         Hi there 👋 I´m Marcel , a future Front-End Dev.
      
  <div align="center">
-  <a href="https://twitter.com/_marcelws" target="_blank"><img src="https://i.imgur.com/xgjzM0m.png" target="_blank"></a>
+  <a href="https://twitter.com/_marcelws" target="_blank"><img src="https://i.imgur.com/xgjzM0m.png"></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/_marcelws" target="_blank"><img src="https://i.imgur.com/fuUow7M.png" target="_blank"></a>
   &nbsp;&nbsp;
