@@ -6,7 +6,7 @@
  	<a href="https://www.spotify.com" target="_blank"><img src="https://i.imgur.com/SuYi9qy.png" target="_blank"></a>
   &nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/marcelws/" target="_blank"><img src="https://i.imgur.com/0TaAu9P.png" target="_blank"></a> 
- &nbsp;&nbsp;
+ &nbsp;
   <a href = "mailto:hello@marcelws.com"><img src="https://i.imgur.com/iJ9D02n.png" target="_blank"></a>
 </div>
 &nbsp;
