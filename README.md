@@ -7,13 +7,13 @@
   &nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/marcelws/" target="_blank"><img src="https://i.imgur.com/0TaAu9P.png" target="_blank"></a> 
  &nbsp;
-  <a href = "mailto:hello@marcelws.com"><img src="https://i.imgur.com/iJ9D02n.png" target="_blank"></a>
+ <a href = "mailto:hello@marcelws.com"><img src="https://i.imgur.com/iJ9D02n.png" target="_blank"></a>
 </div>
-&nbsp;
+
 <a href="https://github.com/marcelwss">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=474745&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D7D8D4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Marcel;A+future+Back-End+Developer;I'm+from+São+Paulo,+Brazil;Be+Welcome!+:%29)](https://github.com/marcelwss)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D7D8D4&size=25&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Marcel;A+future+Back-End+Developer;I'm+from+São+Paulo,+Brazil;Be+Welcome!+:%29)](https://github.com/marcelwss)
 
 <div align="center">
 <a href="https://github.com/marcelwss">
