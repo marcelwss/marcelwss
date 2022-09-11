@@ -27,7 +27,7 @@
   
 <div align="left">
   
-  ###### 🎧 Now Playing:
+  ###### &nbsp;&nbsp;&nbsp;🎧 Now Playing:
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31elmntawyhb6dan2jpngnysnyuu&cover_image=true&theme=natemoo-re&bar_color=B89C6D&bar_color_cover=false)](https://github.com/marcelwss)
   
 </div>
