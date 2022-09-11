@@ -1,13 +1,6 @@
-<div align="right">
-  <a href="https://twitter.com/_marcelws" target="_blank"><img src="https://i.imgur.com/jHI8syl.png" target="_blank"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://i.imgur.com/sPfdX5A.png" target="_blank"></a>
-  &nbsp;&nbsp;
- 	<a href="https://www.spotify.com" target="_blank"><img src="https://i.imgur.com/SuYi9qy.png" target="_blank"></a>
-  &nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/marcelws/" target="_blank"><img src="https://i.imgur.com/0TaAu9P.png" target="_blank"></a> 
- &nbsp;
- <a href = "mailto:hello@marcelws.com"><img src="https://i.imgur.com/iJ9D02n.png" target="_blank"></a>
+<div align="right"> 
+ <a href="https://www.linkedin.com/in/marcelws/" target="_blank"><img src="https://i.imgur.com/AMxIZhc.png" target="_blank"></a> 
+ <a href = "mailto:hello@marcelws.com"><img src="https://i.imgur.com/4tcNhjr.png" target="_blank"></a>
 </div>
 
 <a href="https://github.com/marcelwss">
@@ -17,8 +10,8 @@
 
 <div align="center">
 <a href="https://github.com/marcelwss">
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=marcelwss&show_icons=true&count_private=true&hide_border=true&title_color=B89C6D&icon_color=B89C6D&text_color=D7D8D4&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelwss&layout=compact&hide_border=true&title_color=B89C6D&text_color=D7D8D4&bg_color=0d1117"/>
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=marcelwss&show_icons=true&count_private=true&hide_border=true&title_color=B89C6D&icon_color=B89C6D&text_color=8B949E&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelwss&layout=compact&hide_border=true&title_color=B89C6D&text_color=8B949E&bg_color=0d1117"/>
 
 ![Snake animation](https://github.com/marcelwss/marcelwss/blob/output/github-contribution-grid-snake.svg)
 
