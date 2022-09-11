@@ -24,3 +24,5 @@
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=474745&height=120&section=footer"/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31elmntawyhb6dan2jpngnysnyuu&cover_image=true&theme=novatorem&bar_color=aba263&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
