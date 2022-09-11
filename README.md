@@ -1,13 +1,13 @@
 <div align="center">
-  <a href="https://twitter.com/_marcelws" target="_blank"><img src="https://i.imgur.com/xgjzM0m.png" target="_blank" ></a>
+  <a href="https://twitter.com/_marcelws" target="_blank"><img src="https://i.imgur.com/jHI8syl.png target="_blank" ></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_marcelws" target="_blank"><img src="https://i.imgur.com/fuUow7M.png" target="_blank"></a>
+  <a href="https://www.instagram.com/_marcelws" target="_blank"><img src="https://i.imgur.com/sPfdX5A.png" target="_blank"></a>
   &nbsp;&nbsp;
- 	<a href="https://www.spotify.com" target="_blank"><img src="https://i.imgur.com/5KlW2c7.png" target="_blank"></a>
+ 	<a href="https://www.spotify.com" target="_blank"><img src="https://i.imgur.com/SuYi9qy.png" target="_blank"></a>
   &nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/marcelws/" target="_blank"><img src="https://i.imgur.com/Vmo4nRN.png" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/marcelws/" target="_blank"><img src="https://i.imgur.com/0TaAu9P.png" target="_blank"></a> 
  &nbsp;&nbsp;
-  <a href = "mailto:hello@marcelws.com"><img src="https://i.imgur.com/KXktthy.png" target="_blank"></a>
+  <a href = "mailto:hello@marcelws.com"><img src="https://i.imgur.com/iJ9D02n.png" target="_blank"></a>
 </div>
 &nbsp;
 <a href="https://github.com/marcelwss">
