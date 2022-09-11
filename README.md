@@ -1,7 +1,7 @@
 <div align="right">
   <a href="https://twitter.com/_marcelws" target="_blank"><img src="https://i.imgur.com/jHI8syl.png" target="_blank"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_marcelws" target="_blank"><img src="https://i.imgur.com/sPfdX5A.png" target="_blank"></a>
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://i.imgur.com/sPfdX5A.png" target="_blank"></a>
   &nbsp;&nbsp;
  	<a href="https://www.spotify.com" target="_blank"><img src="https://i.imgur.com/SuYi9qy.png" target="_blank"></a>
   &nbsp;&nbsp;
