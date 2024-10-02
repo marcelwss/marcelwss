@@ -1,6 +1,5 @@
 <div align="right">
- <a href = "mailto:hello@marcelws.com"><img src="https://i.imgur.com/02sJwaD.png" target="_blank"></a>
- <a href="https://www.linkedin.com/in/marcelws/" target="_blank"><img src="https://i.imgur.com/yMcZB87.png" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/marcelws/" target="_blank"><img src="https://i.imgur.com/td9bNb3.png" target="_blank"></a>
 </div>
 
 <a href="https://github.com/marcelwss">
