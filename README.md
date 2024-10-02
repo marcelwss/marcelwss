@@ -1,6 +1,6 @@
 <div align="right">
- <a href="mailto:hello@marcelws.com/" target="_blank"><img src="https://i.imgur.com/G0f0DBW.png" target="_blank"></a>
- <a href="https://www.linkedin.com/in/marcelws/" target="_blank"><img src="https://i.imgur.com/mWCvXYp.png" target="_blank"></a>
+ <a href="mailto:hello@marcelws.com/" target="_blank"><img src="https://i.imgur.com/czywjW5.png" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/marcelws/" target="_blank"><img src="https://i.imgur.com/QyEmUMD.png" target="_blank"></a>
 </div>
 
 <a href="https://github.com/marcelwss">
