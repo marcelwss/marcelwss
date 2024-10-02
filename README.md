@@ -1,5 +1,5 @@
 <div align="right">
- <a href="https://www.linkedin.com/in/marcelws/" target="_blank"><img src="https://i.imgur.com/td9bNb3.png" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/marcelws/" target="_blank"><img src="https://i.imgur.com/YaJ5kUj.png" target="_blank"></a>
 </div>
 
 <a href="https://github.com/marcelwss">
