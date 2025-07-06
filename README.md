@@ -1,7 +1,6 @@
 <a href="https://github.com/marcelwss">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=474745&height=120&section=header"/>
 </a>
-
 <div align="center">
 <a href="https://github.com/marcelwss">
   <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=marcelwss&show_icons=true&count_private=true&hide_border=true&title_color=B89C6D&icon_color=B89C6D&text_color=8B949E&bg_color=0d1117" alt="GitHub Stats" /> 
